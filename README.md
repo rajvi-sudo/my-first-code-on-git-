@@ -114,17 +114,7 @@ padding: 25px 50px 25px 50px;
     
     </div>
 
-<div class="certification">
-  <h1>Certifications:</h1>
-  <p>Computer Hardware and Networking (NSIC)</p>
-  <p>Fundamentals of Digital Marketing (Google Digital Garage)</p>
-  <p>Startup India Learning Program (Invest India)</p>
 
- </div>
- <div class="additional"><h1>Additional Details</h1>
- 	<p>Coordinated the event turbo carting (state level college fest)</p>
-    <p>Coordinated the event KBC (state level college fest)</p>
- </div>   
 
 </body>
 </html>
